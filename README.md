@@ -10,7 +10,7 @@
 3. Practicamos con los comandos esenciales de Git
     - (Para la primera vez) Creamos un repo en github y le damos a clone
     ```sh
-    git clone https://github.com/profexabi/UTN2026_c2Div131.git
+    git clone https://github.com/profexabi/UTN2026_c2Div132.git
     ```
 
     - (Siempre antes de trabajar)
@@ -23,6 +23,7 @@
     ```
 
     - Hacemos los cambios pertinentes en nuestro repo, y una vez que terminamos
+    - Esta es una nueva linea, esto antes no estaba
     ```sh
     # Comprobamos el estado
     git status
